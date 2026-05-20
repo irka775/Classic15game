@@ -37,3 +37,6 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 ---
 
 Happy coding!
+
+---
+Educational project — see [FAMILY_USE.md](FAMILY_USE.md).
